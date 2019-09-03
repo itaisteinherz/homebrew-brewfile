@@ -2,7 +2,7 @@ tap 'caskroom/cask'
 
 # Core Homebrew
 brew 'bat'
-brew 'fnm'
+brew 'Schniz/tap/fnm'
 brew 'hub'
 brew 'openssl'
 # brew 'zsh-syntax-highlighting'
