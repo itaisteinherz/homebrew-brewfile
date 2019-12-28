@@ -6,6 +6,7 @@ brew 'Schniz/tap/fnm'
 brew 'hub'
 brew 'openssl'
 # brew 'zsh-syntax-highlighting'
+brew 'mas'
 
 # Cask Apps
 cask 'iina'
