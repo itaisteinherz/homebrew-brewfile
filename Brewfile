@@ -1,7 +1,7 @@
 tap 'caskroom/cask'
 
 # Core Homebrew
-brew 'bat'
+# brew 'bat'
 brew 'Schniz/tap/fnm'
 brew 'hub'
 brew 'openssl'
