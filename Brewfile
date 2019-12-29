@@ -19,6 +19,7 @@ cask 'typora'
 cask 'visual-studio-code'
 # cask 'zoomus'
 cask 'postico'
+cask 'appcleaner'
 
 # MAS apps
 mas "Amphetamine", id: 937984704
