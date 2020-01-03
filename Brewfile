@@ -20,6 +20,7 @@ cask "visual-studio-code"
 # cask "zoomus"
 cask "postico"
 cask "appcleaner"
+cask "kite"
 
 # MAS apps
 mas "Amphetamine", id: 937984704
