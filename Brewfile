@@ -5,6 +5,7 @@ tap "caskroom/cask"
 ## Dev
 brew "zsh"
 brew "zsh-syntax-highlighting"
+brew "zsh-autosuggestions"
 brew "Schniz/tap/fnm"
 brew "python"
 # brew "bat"
