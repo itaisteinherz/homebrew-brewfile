@@ -1,11 +1,16 @@
 tap "caskroom/cask"
 
 ### Core Homebrew packages
-# brew "bat"
+
+## Dev
+brew "zsh"
+brew "zsh-syntax-highlighting"
 brew "Schniz/tap/fnm"
+brew "python"
+# brew "bat"
 brew "hub"
-brew "openssl"
-# brew "zsh-syntax-highlighting"
+
+## Utilities
 brew "mas"
 
 ### Homebrew Cask apps
