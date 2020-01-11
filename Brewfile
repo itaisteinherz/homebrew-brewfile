@@ -1,6 +1,6 @@
 tap "caskroom/cask"
 
-### Core Homebrew packages
+### Homebrew packages
 
 ## Dev
 brew "zsh"
@@ -19,10 +19,11 @@ brew "mas"
 ## DevTools
 cask "visual-studio-code"
 cask "iterm2"
+cask "kitematic"
 cask "postman"
 cask "kite"
-cask "ngrok"
 cask "postico"
+cask "ngrok"
 
 ## Utilities
 cask "iina"
