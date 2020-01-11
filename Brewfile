@@ -16,6 +16,10 @@ brew "mas"
 
 ### Homebrew Cask apps
 
+## Productivity
+cask "workflowy"
+cask "typora"
+
 ## DevTools
 cask "visual-studio-code"
 cask "iterm2"
@@ -29,7 +33,6 @@ cask "ngrok"
 cask "iina"
 # cask "keybase"
 cask "numi"
-cask "typora"
 # cask "zoomus"
 cask "appcleaner"
 
