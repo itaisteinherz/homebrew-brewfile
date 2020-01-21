@@ -33,7 +33,7 @@ cask "ngrok"
 cask "iina"
 # cask "keybase"
 cask "numi"
-# cask "zoomus"
+cask "zoomus"
 cask "appcleaner"
 
 ### MAS apps
