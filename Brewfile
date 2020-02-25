@@ -35,6 +35,7 @@ cask "iina"
 cask "numi"
 cask "zoomus"
 cask "appcleaner"
+cask "background-music"
 
 ### MAS apps
 mas "Amphetamine", id: 937984704
