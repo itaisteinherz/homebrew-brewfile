@@ -38,3 +38,4 @@ cask "appcleaner"
 
 ### MAS apps
 mas "Amphetamine", id: 937984704
+mas "Gifski", id: 1351639930
