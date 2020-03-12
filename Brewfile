@@ -34,6 +34,7 @@ cask "iina"
 # cask "keybase"
 cask "numi"
 cask "zoomus"
+cask "skype"
 cask "appcleaner"
 
 ### MAS apps
