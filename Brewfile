@@ -8,6 +8,7 @@ brew "zsh-syntax-highlighting"
 brew "zsh-autosuggestions"
 brew "Schniz/tap/fnm"
 brew "python"
+brew "mysql"
 # brew "bat"
 brew "hub"
 
