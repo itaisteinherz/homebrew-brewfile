@@ -28,6 +28,7 @@ cask "postman"
 cask "kite"
 cask "postico"
 cask "ngrok"
+cask "adoptopenjdk/openjdk/adoptopenjdk8"
 
 ## Utilities
 cask "iina"
