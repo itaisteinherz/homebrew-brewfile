@@ -3,15 +3,16 @@ tap "caskroom/cask"
 ### Homebrew packages
 
 ## Dev
-brew "zsh"
-brew "zsh-syntax-highlighting"
-brew "zsh-autosuggestions"
 brew "Schniz/tap/fnm"
 brew "python"
-# brew "bat"
 brew "hub"
 
 ## Utilities
+brew "zsh"
+brew "zsh-syntax-highlighting"
+brew "zsh-autosuggestions"
+brew "bat"
+brew "magic-wormhole"
 brew "mas"
 
 ### Homebrew Cask apps
