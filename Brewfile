@@ -13,6 +13,7 @@ brew "zsh-syntax-highlighting"
 brew "zsh-autosuggestions"
 brew "git-lfs"
 brew "bat"
+brew "broot"
 brew "magic-wormhole"
 brew "mas"
 
