@@ -39,6 +39,7 @@ cask "numi"
 cask "zoomus"
 cask "skype"
 cask "appcleaner"
+cask "imageoptim"
 
 ### MAS apps
 mas "Amphetamine", id: 937984704
